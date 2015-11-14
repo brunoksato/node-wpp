@@ -1,0 +1,22 @@
+{
+  "name": "node-wpp",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoksato/node-wpp.git"
+  },
+  "author": "Bruno Sato <bruno.sato@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunoksato/node-wpp/issues"
+  },
+  "homepage": "https://github.com/brunoksato/node-wpp#readme"
+}
